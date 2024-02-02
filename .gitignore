@@ -3,3 +3,5 @@ node_modules/
 
 # Emscripten builds
 *.out.js
+
+.DS_Store
